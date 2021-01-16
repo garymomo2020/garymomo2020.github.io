@@ -128,6 +128,10 @@
 			htmlIframeSrc = 'B2h9Ku7YBo4';
 		} else if (chkId == 'adModala3') {
 			htmlIframeSrc = '-agtrqXxfQ0';
+		} else if (chkId == 'adModala4') {
+			htmlIframeSrc = '6I9b_3W9STQ';
+		} else if (chkId == 'adModalb6') {
+			htmlIframeSrc = '16jLUePq3aw';
 		}
 		$("#adModal").find("#video-block").append(htmlIframe1 + htmlIframeSrc + htmlIframe2);
 	});
