@@ -122,8 +122,10 @@
 		var htmlIframe2 = '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
 		var htmlIframeSrc = '';
 		var chkId = $(this).attr("id");
-		if (chkId == 'adModala1') {
+		if (chkId == 'adModala1-1') {
 			htmlIframeSrc = 't-UQcv7rzdQ';
+		} else if (chkId == 'adModala1-2') {
+			htmlIframeSrc = 'LtY-jWeEQhQ';
 		} else if (chkId == 'adModala2') {
 			htmlIframeSrc = 'B2h9Ku7YBo4';
 		} else if (chkId == 'adModala3') {
